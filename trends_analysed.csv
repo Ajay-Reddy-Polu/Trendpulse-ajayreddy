@@ -1,0 +1,117 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47625952,Show HN: I built a frontpage for personal blogs,others,114,45,ramkarthikk,2026-04-03 19:42:35,0.391304347826087,False
+47625639,TDF ejects its core developers,others,62,40,janvdberg,2026-04-03 19:42:36,0.6349206349206349,False
+47626462,Big-Endian Testing with QEMU,others,8,0,jandeboevrie,2026-04-03 19:42:37,0.0,False
+47624731,April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini,others,123,41,greenstevester,2026-04-03 19:42:37,0.33064516129032256,False
+47616361,Google releases Gemma 4 open models,others,1616,425,jeffmcjunkin,2026-04-03 19:42:38,0.2628324056895485,True
+47624645,Show HN: Apfel – The free AI already on your Mac,technology,356,74,franze,2026-04-03 19:42:39,0.20728291316526612,True
+47567222,Samsung Magician disk utility takes 18 steps and two reboots to uninstall,others,71,18,chalmovsky,2026-04-03 19:42:40,0.25,False
+47561426,What Category Theory Teaches Us About DataFrames,technology,73,14,mchav,2026-04-03 19:42:40,0.1891891891891892,False
+47616242,Decisions that eroded trust in Azure – by a former Azure Core engineer,others,958,427,axelriet,2026-04-03 19:42:41,0.44525547445255476,True
+47625366,United States Code (federal laws) in Git,others,33,9,nickvido,2026-04-03 19:42:42,0.2647058823529412,False
+47561678,"ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",others,113,61,topspin,2026-04-03 19:42:44,0.5350877192982456,False
+47626598,Show HN: ctx – an Agentic Development Environment (ADE),others,5,1,luca-ctx,2026-04-03 19:42:44,0.16666666666666666,False
+47560967,A Recipe for Steganogravy,others,12,2,tbrockman,2026-04-03 19:42:45,0.15384615384615385,False
+47625311,Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux,technology,13,2,tosh,2026-04-03 19:42:46,0.14285714285714285,False
+47624736,NHS staff refusing to use FDP over Palantir ethical concerns,others,163,48,chrisjj,2026-04-03 19:42:47,0.2926829268292683,False
+47625244,Critics say EU risks ceding control of its tech laws under U.S. pressure,technology,102,64,nickslaughter02,2026-04-03 19:42:48,0.6213592233009708,False
+47573728,Intel Assured Supply Chain Product Brief,technology,21,1,aw-engineer,2026-04-03 19:42:48,0.045454545454545456,False
+47618189,Tailscale's new macOS home,technology,499,254,tosh,2026-04-03 19:42:49,0.508,True
+47562455,The True Shape of Io's Steeple Mountain,technology,83,2,carlosjobim,2026-04-03 19:42:50,0.023809523809523808,False
+47618084,Cursor 3,others,473,349,adamfeldman,2026-04-03 19:42:50,0.7362869198312236,True
+47609356,Artemis II's toilet is a moon mission milestone,others,290,129,1659447091,2026-04-03 19:42:51,0.44329896907216493,True
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,559,192,pretext,2026-04-03 19:42:52,0.34285714285714286,True
+47624811,SSH certificates: the better SSH experience,others,29,7,jandeboevrie,2026-04-03 19:42:53,0.23333333333333334,False
+47598413,C89cc.sh – standalone C89/ELF64 compiler in pure portable shell,others,159,50,gaigalas,2026-04-03 19:42:53,0.3125,False
+47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),technology,299,139,sedev,2026-04-03 19:42:54,0.4633333333333333,True
+47613981,LinkedIn is searching your browser extensions,others,1814,730,digitalWestie,2026-04-03 19:42:55,0.4022038567493113,True
+47624317,New Rowhammer attacks give complete control of machines running Nvidia GPUs,others,90,5,01-_-,2026-04-03 19:42:56,0.054945054945054944,False
+47561913,Vector Meson Dominance,others,43,4,chmaynard,2026-04-03 19:42:57,0.09090909090909091,False
+47624691,HarfBuzz Slug Support with WebGL,others,10,3,mcraiha,2026-04-03 19:42:58,0.2727272727272727,False
+47593861,Maze Algorithms (1997),others,76,26,marukodo,2026-04-03 19:42:58,0.33766233766233766,False
+47562762,Significant progress made on Xbox 360 recompilation,others,139,27,tetrisgm,2026-04-03 19:42:59,0.19285714285714287,False
+47560959,Show HN: Home Maker: Declare Your Dev Tools in a Makefile,others,80,46,sthottingal,2026-04-03 19:43:00,0.5679012345679012,False
+47618176,George Goble has died,others,161,34,finaard,2026-04-03 19:43:01,0.20987654320987653,False
+47625385,"H.264 Streaming Fees: What Changed, Who's Affected, and What It Means",others,52,30,phantomathkg,2026-04-03 19:43:02,0.5660377358490566,False
+47624558,Proton meet isn't what they told you it was,others,143,127,bundie,2026-04-03 19:43:02,0.8819444444444444,False
+47621825,I Built an SMS Gateway with a $20 Android Phone – Jonno.nz,others,61,18,jonno-nz,2026-04-03 19:43:04,0.2903225806451613,False
+47572288,JSON Canvas Spec (2024),others,121,37,tobr,2026-04-03 19:43:05,0.30327868852459017,False
+47613078,Inside Nepal's Fake Rescue Racket,others,299,130,lode,2026-04-03 19:43:05,0.43333333333333335,True
+47617376,OpenAI Acquires TBPN,technology,224,182,surprisetalk,2026-04-03 19:43:06,0.8088888888888889,True
+47624804,Category Theory Illustrated – Types,others,5,0,boris_m,2026-04-03 19:43:07,0.0,False
+47624990,Adobe wrote to my hosts file. I've never had an app do this before,others,37,6,speckx,2026-04-03 19:43:08,0.15789473684210525,False
+47621438,Show HN: Made a little Artemis II tracker,others,124,49,codingmoh,2026-04-03 19:43:08,0.392,False
+47615490,Artemis computer running two instances of MS outlook; they can't figure out why,technology,448,342,mooreds,2026-04-03 19:43:09,0.7616926503340757,True
+47551847,The Joy of Numbered Streets,others,52,35,dmit,2026-04-03 19:43:10,0.660377358490566,False
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",others,873,413,novaRom,2026-04-03 19:43:11,0.47254004576659037,True
+47620933,Memo: A language that remembers only the last 12 lines of code,others,54,30,notem,2026-04-03 19:43:12,0.5454545454545454,False
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,others,533,111,AbuAssar,2026-04-03 19:43:13,0.20786516853932585,True
+47621448,A Few Good Magazines From the 70s and 80s,others,62,18,OhMeadhbh,2026-04-03 19:43:13,0.2857142857142857,False
+47624879,Switzerland hosts 'CERN of semiconductor research',science,27,5,teleforce,2026-04-03 19:43:14,0.17857142857142858,False
+47626347,F-15E Wreckage Photos Amid Iranian Claims It Shot Down an American Fighter,technology,7,4,uticus,2026-04-03 19:43:15,0.5,False
+47614100,'Backrooms' and the Rise of the Institutional Gothic,others,203,98,anarbadalov,2026-04-03 19:43:15,0.4803921568627451,True
+47623101,A Rave Review of Superpowers (For Claude Code),others,31,20,emschwartz,2026-04-03 19:43:17,0.625,False
+47625723,What Hath Tim Berners-Lee Wrought?,others,7,0,MindGods,2026-04-03 19:43:17,0.0,False
+47626258,"The more evidence behind a therapy, the less the public trusts it",others,5,0,clumsysmurf,2026-04-03 19:43:19,0.0,False
+47603657,Artemis II Launch Day Updates,others,1081,938,apitman,2026-04-03 19:43:19,0.866913123844732,True
+47624270,Q148637: Windows 95/98 Overwrites Boot-Sector Field on Floppy Disks (2001),others,5,0,TMWNN,2026-04-03 19:43:20,0.0,False
+47592614,Prefer do notation over Applicative operators when assembling records (2024),others,50,8,wazHFsRy,2026-04-03 19:43:21,0.1568627450980392,False
+47611481,Bringing Clojure programming to Enterprise (2021),others,194,109,smartmic,2026-04-03 19:43:22,0.558974358974359,False
+47582987,Gone (Almost) Phishin',others,178,84,luu,2026-04-03 19:43:22,0.4692737430167598,False
+47575557,Magic the Gathering Deck Shuffler,others,62,15,mooreds,2026-04-03 19:43:23,0.23809523809523808,False
+47625537,"Economists Once Dismissed the A.I. Job Threat, but Not Anymore",others,9,3,chrisaycock,2026-04-03 19:43:24,0.3,False
+47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,others,144,45,jackson-mcd,2026-04-03 19:43:24,0.3103448275862069,False
+47622670,EmDash Feedback,others,35,4,batuhanicoz,2026-04-03 19:43:25,0.1111111111111111,False
+47540441,Reinventing the pull request,others,103,79,bkolobara,2026-04-03 19:43:26,0.7596153846153846,False
+47615449,Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps,others,357,146,speckx,2026-04-03 19:43:27,0.40782122905027934,True
+47621518,Tor Alva: The Tallest 3D-Printed Building in the World,others,43,11,sohkamyung,2026-04-03 19:43:28,0.25,False
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,749,351,hkmaxpro,2026-04-03 19:43:28,0.468,True
+47574600,"Queueing Requests Queues Your Capacity Problems, Too",others,32,15,mhawthorne,2026-04-03 19:43:29,0.45454545454545453,False
+47574851,Foxing aspires to be an eBPF-powered replication engine for Linux filesystems,others,48,5,tanelpoder,2026-04-03 19:43:30,0.10204081632653061,False
+47615756,Renewables reached nearly 50% of global electricity capacity last year,others,279,136,Growtika,2026-04-03 19:43:31,0.4857142857142857,True
+47611921,Significant raise of reports,technology,298,151,stratos123,2026-04-03 19:43:32,0.5050167224080268,True
+47615434,Delve allegedly forked an open-source tool and sold it as its own,others,291,148,nickvec,2026-04-03 19:43:32,0.5068493150684932,True
+47618120,Hugo's New CSS Powers,others,50,11,speckx,2026-04-03 19:43:33,0.21568627450980393,False
+47611721,IBM Announces Strategic Collaboration with Arm,others,270,186,bonzini,2026-04-03 19:43:34,0.6863468634686347,True
+47623053,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",technology,12,6,arttaboi,2026-04-03 19:43:35,0.46153846153846156,False
+47563486,Emacs-libgterm: Terminal emulator for Emacs using libghostty-vt,others,89,30,signa11,2026-04-03 19:43:36,0.3333333333333333,False
+47615844,Show HN: A P2P messenger with dual network modes (Fast and Tor),others,34,21,Realman78,2026-04-03 19:43:37,0.6,False
+47620939,rpg: A modern psql-compatible Postgres terminal and TUI written in Rust,others,15,2,tanelpoder,2026-04-03 19:43:37,0.125,False
+47618581,Amazon is adding a fuel surcharge to fees it collects from third-party sellers,others,163,95,lehi,2026-04-03 19:43:38,0.5792682926829268,False
+47609882,Subscription bombing and how to mitigate it,others,292,179,homelessdino,2026-04-03 19:43:39,0.6109215017064846,True
+47615876,The case for zero-error horizons in trustworthy LLMs,others,75,104,daigoba66,2026-04-03 19:43:40,1.368421052631579,False
+47612558,Enabling Codex to Analyze Two Decades of Hacker News Data,technology,82,30,ronfriedhaber,2026-04-03 19:43:40,0.3614457831325301,False
+47579942,Built a cheap DIY fan controller because my motherboard never had working PWM,others,72,38,bobsterlobster,2026-04-03 19:43:41,0.5205479452054794,False
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",others,144,111,kasparnoor,2026-04-03 19:43:42,0.7655172413793103,False
+47618100,Yggdrasil Network,others,113,52,Velocifyer,2026-04-03 19:43:42,0.45614035087719296,False
+47547938,Quadratic Micropass Type Inference,others,35,6,simvux,2026-04-03 19:43:43,0.16666666666666666,False
+47616704,Modern SQLite: Features You Didn't Know It Had,others,220,61,thunderbong,2026-04-03 19:43:44,0.27601809954751133,True
+47561606,Working on Products People Hate,others,57,55,herbertl,2026-04-03 19:43:44,0.9482758620689655,False
+47620039,"Reporting potholes with an ESP32, LoRA, and AI",technology,21,0,flakespancakes,2026-04-03 19:43:45,0.0,False
+47575554,"An Example of Statistical Investigation of the Text Eugene Onegin – Markov, 1913 [pdf]",others,35,3,jxmorris12,2026-04-03 19:43:46,0.08333333333333333,False
+47609694,Email obfuscation: What works in 2026?,technology,356,99,jaden,2026-04-03 19:43:46,0.2773109243697479,True
+47602832,EmDash – A spiritual successor to WordPress that solves plugin security,others,673,490,elithrar,2026-04-03 19:43:47,0.7270029673590505,True
+47582220,Axios compromised on NPM – Malicious versions drop remote access trojan,others,1925,799,mtud,2026-04-03 19:43:48,0.4148494288681205,True
+47618247,Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays,others,18,3,symisc_devel,2026-04-03 19:43:49,0.15789473684210525,False
+47621792,Post Mortem: axios NPM supply chain compromise,technology,103,65,Kyro38,2026-04-03 19:43:49,0.625,False
+47618221,The Australian government has announced gambling advertising reforms,worldnews,123,91,gostsamo,2026-04-03 19:43:50,0.7338709677419355,False
+47610777,Quad9 Enables DNS over HTTP/3 and DNS over QUIC,others,61,13,itchingsphynx,2026-04-03 19:43:51,0.20967741935483872,False
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,others,102,62,rdme,2026-04-03 19:43:52,0.6019417475728155,False
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,technology,28,4,j0rg3,2026-04-03 19:43:53,0.13793103448275862,False
+47557385,The revenge of the data scientist,technology,172,37,hamelsmu,2026-04-03 19:43:53,0.2138728323699422,False
+47626641,Trump Administration Orders Dismantling of the U.S. Forest Service,others,8,1,speckx,2026-04-03 19:43:54,0.1111111111111111,False
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,others,63,4,nemoniac,2026-04-03 19:43:55,0.0625,False
+47578582,What Gödel Discovered (2020),others,94,32,qnleigh,2026-04-03 19:43:55,0.3368421052631579,False
+47604155,SpaceX files to go public,science,392,564,nutjob2,2026-04-03 19:43:56,1.4351145038167938,True
+47576106,"Reverse Engineering Crazy Taxi, Part 2",others,85,9,wgreenberg,2026-04-03 19:43:57,0.10465116279069768,False
+47613447,CC leak: skills are better than I thought,others,42,14,KaseKun,2026-04-03 19:43:58,0.32558139534883723,False
+47608495,Quantum computing bombshells that are not April Fools,others,262,104,Strilanc,2026-04-03 19:43:59,0.39543726235741444,True
+47573450,Intuiting Pratt Parsing,others,161,48,signa11,2026-04-03 19:44:00,0.2962962962962963,False
+47619990,The machines are fine. I'm worried about us,others,12,2,hmpc,2026-04-03 19:44:00,0.15384615384615385,False
+47625112,RiskReady-open-source GRC platform with MCP gateway and human-approved mutations,others,5,1,danielminda7,2026-04-03 19:44:01,0.16666666666666666,False
+47625098,"Show HN: LLMnesia – search across ChatGPT, Claude, Gemini chats locally",others,6,2,keiranflynn,2026-04-03 19:44:02,0.2857142857142857,False
+47610245,Things I Think I Think... Preferring Local OSS LLMs,others,43,9,zdw,2026-04-03 19:44:02,0.20454545454545456,False
+47624164,AI models will deceive you to save their own kind,technology,7,0,cmsefton,2026-04-03 19:44:03,0.0,False
+47621048,Why Doesn't Anybody Realize We're Going Back to the Moon?,others,69,129,paulpauper,2026-04-03 19:44:04,1.8428571428571427,False
+47571183,Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell),others,200,83,wazHFsRy,2026-04-03 19:44:05,0.4129353233830846,True
+47611809,New laws to make it easier to cancel subscriptions and get refunds,others,153,64,chrisjj,2026-04-03 19:44:06,0.4155844155844156,False
